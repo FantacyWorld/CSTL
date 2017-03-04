@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1488612777 source:f:\brucehuang\cstl\cstl\test.cpp
+	"alloc.h"
+	<vector>
+	<stdio.h>
+
+1488612815 f:\brucehuang\cstl\cstl\alloc.h
+	<stddef.h>
+	<stdlib.h>
+	<limits.h>
+	<stdio.h>
+
